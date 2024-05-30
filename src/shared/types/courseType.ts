@@ -1,0 +1,9 @@
+type Tag = string;
+
+export interface ICourse {
+  name: string;
+  id: string;
+  image: string;
+  bgColor: string;
+  tags: Tag[];
+}

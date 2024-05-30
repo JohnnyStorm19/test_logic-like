@@ -1,0 +1,1 @@
+export { getCourseData } from "./course";
